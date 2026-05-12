@@ -1,4 +1,4 @@
-﻿package co.edulabs.helpdesk.service;
+package co.edulabs.helpdesk.service;
 import co.edulabs.helpdesk.model.*;
 import co.edulabs.helpdesk.repository.*;
 import org.springframework.beans.factory.annotation.Autowired;
