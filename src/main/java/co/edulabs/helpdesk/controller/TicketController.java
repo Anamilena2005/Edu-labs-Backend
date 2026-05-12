@@ -1,4 +1,4 @@
-﻿package co.edulabs.helpdesk.controller;
+package co.edulabs.helpdesk.controller;
 import co.edulabs.helpdesk.model.Ticket;
 import co.edulabs.helpdesk.service.TicketService;
 import org.springframework.beans.factory.annotation.Autowired;
