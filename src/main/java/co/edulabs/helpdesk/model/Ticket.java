@@ -1,4 +1,4 @@
-﻿package co.edulabs.helpdesk.model;
+package co.edulabs.helpdesk.model;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
 @Entity
